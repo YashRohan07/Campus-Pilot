@@ -1,0 +1,10 @@
+E:\All Semester\Fall Semester 2023\C Sharp\Project Portal management\01Signin\01Signin\bin\Debug\01Signin.exe.config
+E:\All Semester\Fall Semester 2023\C Sharp\Project Portal management\01Signin\01Signin\bin\Debug\01Signin.exe
+E:\All Semester\Fall Semester 2023\C Sharp\Project Portal management\01Signin\01Signin\bin\Debug\01Signin.pdb
+E:\All Semester\Fall Semester 2023\C Sharp\Project Portal management\01Signin\01Signin\obj\Debug\01Signin.csproj.AssemblyReference.cache
+E:\All Semester\Fall Semester 2023\C Sharp\Project Portal management\01Signin\01Signin\obj\Debug\_01Signin.Form1.resources
+E:\All Semester\Fall Semester 2023\C Sharp\Project Portal management\01Signin\01Signin\obj\Debug\_01Signin.Properties.Resources.resources
+E:\All Semester\Fall Semester 2023\C Sharp\Project Portal management\01Signin\01Signin\obj\Debug\01Signin.csproj.GenerateResource.cache
+E:\All Semester\Fall Semester 2023\C Sharp\Project Portal management\01Signin\01Signin\obj\Debug\01Signin.csproj.CoreCompileInputs.cache
+E:\All Semester\Fall Semester 2023\C Sharp\Project Portal management\01Signin\01Signin\obj\Debug\01Signin.exe
+E:\All Semester\Fall Semester 2023\C Sharp\Project Portal management\01Signin\01Signin\obj\Debug\01Signin.pdb
